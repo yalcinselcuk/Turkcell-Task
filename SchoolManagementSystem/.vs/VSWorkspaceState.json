@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SchoolManagementSystem",
+    "\\SchoolManagementSystem\\Services",
+    "\\SchoolManagementSystem\\Services\\Abstracts",
+    "\\SchoolManagementSystem\\Services\\Concretes"
+  ],
+  "SelectedNode": "\\SchoolManagementSystem\\Services\\Concretes\\ClassService.cs",
+  "PreviewInSolutionExplorer": false
+}
