@@ -4,4 +4,5 @@
 <a href="https://medium.com/@yalcinselcukkk/solidin-s-si-single-responsibility-principle-bceec0cbd6d1">Single Responsibility Principle Medium Yazım İçin Tıklayınız</a><br/>
 <a href="https://medium.com/@yalcinselcukkk/solidin-o-su-open-closed-principle-bfb3ad2e50fa">Open Closed Principle Medium Yazım İçin Tıklayınız</a><br/>
 <a href="https://medium.com/@yalcinselcukkk/solidin-l-si-liskov-substitution-principle-19bfa309e4d">Liskov Substitution Principle Medium Yazım İçin Tıklayınız</a><br/>
-<a href="SOLID’in I’si = Interface Segregation Principle">Interface Segregation Principle Medium Yazım İçin Tıklayınız</a>
+<a href="SOLID’in I’si = Interface Segregation Principle">Interface Segregation Principle Medium Yazım İçin Tıklayınız</a><br/>
+<a href="https://medium.com/@yalcinselcukkk/solidin-d-si-dependency-inversion-principle-5061869515d5">Dependency Inversion Principle Medium Yazım İçin Tıklayınız</a>
