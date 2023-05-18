@@ -10,7 +10,12 @@ namespace SchoolManagementSystem.Entities.Concretes
     {
         public string ClassName { get; set; }
 
-        public Teacher Teacher { get; set; }
+        private Teacher isNull;
+        public Teacher Teacher 
+        {
+            get {return isNull ; }
+            set { isNull = new Teacher { Id = 0} ; }
+        }
         public List<Student> Students { get; set; }
 
     }
