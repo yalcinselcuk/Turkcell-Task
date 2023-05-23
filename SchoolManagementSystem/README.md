@@ -1,3 +1,7 @@
+Projenin tamamlanıp Github'a yüklenme tarihi : 19.04.2023
+<br/><br/>
+kişisel merge hatasından dolayı klasör kaldırıp yeniden yüklendi :( 
+
 TODO
 ------------------
 önce sınıf eklenecek <br/>
