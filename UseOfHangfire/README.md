@@ -36,7 +36,7 @@ yarım kalması ve tekrarlanmaması)
 ![3 hangfire paketinin yüklenmesi](https://github.com/yalcinselcuk/Turkcell-Task/assets/81808916/0292dd1c-3d2f-47f1-b402-e45525105269)
 <br/><br/>
 
-4.Projemizde <strong>Data</strong> diye bir klasör açıp içine DB işlemlerimizi yapacağımız class'ı ekliyoruz
+4.Projemizde <strong>Data</strong> diye bir klasör açıp içine DB işlemlerimizi yapacağımız class'ı ekliyoruz <br/>
 ![4 klasör ve class yüklenmesi](https://github.com/yalcinselcuk/Turkcell-Task/assets/81808916/9cf6ea8d-1240-4562-bc97-c9ef3f784b13)
 <br/><br/>
 
