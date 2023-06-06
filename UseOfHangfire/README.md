@@ -74,10 +74,20 @@ Cron Expression'lar ile ilgili detaylı bilgi için : <a href="https://crontab.c
 -builder.Services.AddHangfireServer(); <br/>
 -app.UseHangfireDashboard(); <br/>
 ekliyoruz
+<br/> <br/>
 
 Projemiz fake DB class'ı üzerinden çalışmaya hazır ve çalıştırabiliriz IIS üzerinden <br/>
+Proje çalışınca belirttiğimiz DB üzerinden kendi tablolarını oluşturacaktır. <br/>
+İlgili DB'ye giderek bunu da görebilirsiniz <br/>
+
+
+> **Warning**
+> Bende çalışırken Microsoft.Data.SqlClient paketini yüklemem de gerekti
+<br/> <br/>
+
 Açılan proje sayfasından Hangfire'ın Dashboard'ına gitmek için Default Url'sinin sonuna <strong> /hangfire </strong> ekliyoruz
 <br/> <br/>
+
 Hangfire Dashboard Ana Sayfası <br/>
 ![hangfire1](https://github.com/yalcinselcuk/Turkcell-Task/assets/81808916/c40abe1f-3397-4ba8-b74c-89d6d9c466b5)
 
