@@ -12,9 +12,9 @@ Server, kendisine gelen talep içerisinde kod değişimi yapılabilecek bir doğ
 <br/> <br/>
 
 PKCE uygulanmasında işlevsellik gösterecek iki etken vardır ; <br/><br/>
-1.code_verifier : Client tarafından yapılan access token talebi neticesinde doğrulama işlemi için kullanılan random üretilmiş bir kod.(43-128 karakterlik dizi) <br/>
+<strong> 1.code_verifier </strong> : Client tarafından yapılan access token talebi neticesinde doğrulama işlemi için kullanılan random üretilmiş bir kod.(43-128 karakterlik dizi) <br/>
 <br/>
-2.code_challenge : code_verifier'ı doğrulamak için client'a gönderilmiş olan random üretilmiş bir kod. Bu kodu SHA256 hash algoritması ile yapabiliriz <br/> 
+<strong> 2.code_challenge </strong> : code_verifier'ı doğrulamak için client'a gönderilmiş olan random üretilmiş bir kod. Bu kodu SHA256 hash algoritması ile yapabiliriz <br/> 
 <br/> <br/>
 
 <strong>ASP.NET Core'da Pkce </strong><br/>
@@ -57,7 +57,7 @@ metodumuz(){
 	return Task.CompletedTask;
 }
 ```
-<br/><br/>
+<br/>
 
 Token Talebine Pkce Desteği Ekleme <br/>
 ```
